@@ -1,0 +1,78 @@
+h6 {
+  text-align: right;
+  margin-right: 15%;
+  margin-left: 15%;
+  margin-top: 100px;
+  max-width: 70%;
+  padding-bottom: 0;
+}
+
+td {
+  padding: 10px 5px;
+}
+
+p {
+  font-size: 26px;
+}
+
+.search {
+  margin-bottom: 40px;
+  margin-right: 20px;
+  width: 70%;
+  border-radius: 15px;
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 8px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.searchbutton {
+  border-radius: 20px;
+  padding: 5px 60px;
+  border-width: 1px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.float {
+  display: block;
+  margin: 100px auto;
+  background: #d2eaf4;
+  max-width: 70%;
+  padding: 80px;
+  margin-top: 0;
+}
+
+.infowrapper {
+  font-family: "Montserrat", sans-serif;
+}
+
+.currentcity {
+  font-weight: bold;
+  padding: 10px 15px;
+  display: inline-block;
+  padding: 4% 6%;
+  vertical-align: middle;
+}
+
+.currentweather {
+  display: inline-block;
+  padding: 4% 6%;
+  vertical-align: middle;
+}
+
+#sun {
+  font-size: 54px;
+  color: orange;
+}
+
+.future {
+  display: inline-block;
+  padding-left: 25%;
+  padding-right: 4%;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  vertical-align: middle;
+  font-weight: 500;
+  font-size: 18px;
+}
